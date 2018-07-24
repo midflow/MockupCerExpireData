@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MookupCerExpireData", "MookupCerExpireData\MookupCerExpireData.csproj", "{5DEA00BB-7DCC-4BAF-9917-E8EBF2FD60C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DEA00BB-7DCC-4BAF-9917-E8EBF2FD60C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DEA00BB-7DCC-4BAF-9917-E8EBF2FD60C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DEA00BB-7DCC-4BAF-9917-E8EBF2FD60C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DEA00BB-7DCC-4BAF-9917-E8EBF2FD60C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80E1FA43-D521-41A6-8F3F-5FD5FE2AB22A}
+	EndGlobalSection
+EndGlobal
